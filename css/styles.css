@@ -68,7 +68,7 @@ body {
   text-align: left;
   /* background-color: #fff; */
   background-color: #d6d6d6;
-  background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+  background-image: url("assets/img/patterns/clean-gray-paper.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -6109,7 +6109,7 @@ a.close.disabled {
   /*background-image: url("https://www.transparenttextures.com/patterns/classy-fabric.png"); */
   /* background-color: #0f0f0f !important; */
   /* background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png"); */
-   background-image: url("/Users/kack0001/astro-tools/github/startbootstrap-resume-gh-pages/assets/img/iss006e40544.jpg");
+   background-image: url("assets/img/iss006e40544.jpg");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
@@ -6123,7 +6123,7 @@ button.bg-primary:focus {
 .bg-secondary {
   /* background-color: #6c757d !important; */
   background-color: #d6d6d6 !important;
-  background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+  background-image: url("assets/img/patterns/clean-gray-paper.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
