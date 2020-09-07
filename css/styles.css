@@ -92,6 +92,10 @@ p {
   margin-bottom: 1rem;
 }
 
+div.indent {
+  text-indent: 20px;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -167,6 +171,7 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
+
 a:hover {
   color: #824027;
   text-decoration: underline;
